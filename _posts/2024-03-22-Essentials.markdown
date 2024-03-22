@@ -35,7 +35,7 @@ insights.
 ### [Glassnode](https://glassnode.com)
 Glass node popular tool that can help you perform advanced analytics by utilising various on chain metrics that are difficult to find elsewhere.
 
-- [Woobull](http://charts.woobull.com) Charts and analysis about bitcoin using on-chain data sourced from glassnode. The site was created by [Willy Woo](https://twitter.com/woonomic), it has many interesting pricing and performance metrics.
+- [Woobull](https://charts.woobull.com) Charts and analysis about bitcoin using on-chain data sourced from glassnode. The site was created by [Willy Woo](https://twitter.com/woonomic), it has many interesting pricing and performance metrics.
 
 ### [Blockscan](https://blockscan.com) 
 Blockscan is a website that provides blockchain explorers for various blockchains such as Ethereum, Binance Smart Chain, Polygon, and Solana. You can also find chain specific scanners like the following :
