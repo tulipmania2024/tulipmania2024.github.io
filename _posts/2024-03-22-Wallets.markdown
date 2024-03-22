@@ -1,0 +1,10 @@
+---
+title: Securely storing you crypto assets.
+date: 2024-03-22 08:47:00 +/-0000
+categories: [Guides, Wallets]
+tags: [wallet, hardware wallet, software wallet]
+pin: False
+---
+
+Notes on secure storage of crypto with explaination about software and hardware wallets. 
+The tradeoffs between them and guidance to choose them appropriately.
