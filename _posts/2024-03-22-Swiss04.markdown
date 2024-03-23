@@ -1,8 +1,76 @@
 ---
 title: Projects from the Swiss Crypto Valley 
 date: 2024-03-22 10:20:00 +/-0000
-categories: [ALTs]
+categories: [ALTs, Crypto Associations and Conferences]
 tags: [Swiss Crypto Valley, ALTs]
 pin: False
 ---
+
+Recently I was looking for some promising low-cap ALTs to buy in preparation 
+for the ALT cycle of this bull run. There are many ways to search for such 
+projects, this time I chose to go through the members of the 
+[Swiss Crypto Valley Association](https://cryptovalley.swiss). It is a organisation 
+based in Zug, Switzerland where a lot of crypto based companies, startups and 
+service providers are based. In this article, I'll cover the interesting projects 
+I found during my search.
+
+First I will list a few projects that do not have token but still are worth looking 
+at. Then I'll list the projects that do have a live tradable token, in decending 
+order, large to small market cap. I will only explore the projects that have a small 
+market cap in detail, because those are the ones that have relatively higher potential 
+returns.
+
+## Projects without a token
+
+This section lists the projects/companies that do not have a tradeable token. Feel 
+free to skip to section that details projects with a token if you are here just to 
+find potential altcoin investements.
+
+#### 1. [Archblock](https://www.archblock.com)
+Archblock is an investment platform, that offers on-chain investment opportunites to investors.
+It also enable fund managers to offer investment products using their platform, and provides 
+services to launch stablecoins. 
+
+Their [investment platform](https://app.archblock.com) is of main interest to me. I think can be safe 
+place to store money during the bear market, because it generates annulised yeild of 5 to 15 % through 
+safe methods like lending.
+
+#### 2. [Bainox](https://www.bainox.com)
+Secure and regulated cloud-mining services. 
+
+
+#### 3. [Suisse Blockchain Launchpad](https://suisseblockchain.io)
+Crypto launchpads is not exactly a new thing. However, this company is creating a 
+launchpad for projects/startups that complies with the swiss 
+regulations. The launchpad is supposed to go live by end of Q1 2024 so will be 
+interesting to the project that will start from here.
+
+## Projects with a token
+
+The complete list of projects is in this [watchlist](https://coinmarketcap.com/watchlist/65fbce4a7ccfb2345f9679e4/).
+Here, I will just focus on the ones that I think are undervalued and might generate
+good returns in the alt cycle.
+
+#### 1. [Bancor](https://coinmarketcap.com/currencies/bancor/) $103M
+#### 2. [Enzyme](https://coinmarketcap.com/currencies/enzyme/) $78.5M
+#### 3. [DIA](https://coinmarketcap.com/currencies/dia/) $75.5M
+#### 4. [HOPR](https://coinmarketcap.com/currencies/hopr/) $55.2M
+#### 5. [Concordium](https://coinmarketcap.com/currencies/concordium/) $53.9M
+#### 6. [Velas](https://coinmarketcap.com/currencies/velas/) $52.5M
+#### 7. [Hacken](https://coinmarketcap.com/currencies/hackenai/) $52.3M
+#### 8. [Castello](https://coinmarketcap.com/currencies/castello-coin/) $21M
+#### 9. [Kenshi](https://www.coingecko.com/en/coins/kenshi) $18.3M
+#### 10. [Stobox](https://coinmarketcap.com/currencies/stobox-token/) $12.3M
+#### 11. [Etherisc](https://coinmarketcap.com/currencies/etherisc/) $7.71
+#### 12. [Rizon](https://coinmarketcap.com/currencies/rizon-blockchain/) $781k
+#### 13. [Partisia](https://coinmarketcap.com/currencies/partisia-blockchain/) $49.4M
+#### 14. [Neptune Mutual](https://coinmarketcap.com/currencies/neptune-mutual/) $2.91M
+#### 15. [AmazeToken](https://coinmarketcap.com/currencies/amazewallet/)
+#### 16. [Genius Yeild](https://coinmarketcap.com/currencies/genius-yield/)
+#### 17. [Cardstack](https://coinmarketcap.com/currencies/cardstack/)
+#### 18. [Cometh](https://coinmarketcap.com/currencies/cometh/)
+#### 19. [IAMX](https://coinmarketcap.com/currencies/iamx-identity/)
+#### 20. [Minima](https://coinmarketcap.com/currencies/minima-global/)
+#### 21. [HDAC](https://coinmarketcap.com/currencies/hdac/)
+#### 22. [GAIMIN](https://coinmarketcap.com/currencies/gaimin/)
 
