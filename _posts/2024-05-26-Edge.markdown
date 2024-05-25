@@ -7,3 +7,11 @@ pin: False
 ---
 
 This article solely focuses on tools and techniques that are useful to get ahead of the curve and find trade opportunites early. 
+
+### List
+
+## 1. Telegram Tools
+### a. Trading Bots : Banana Gun
+### b. Contract Simulators : Otto simulator
+### c. Telegram Scrapping : Banana Gun
+### d. Telegram 
