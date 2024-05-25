@@ -1,8 +1,8 @@
 ---
 title: Getting an edge in the on-chain space.
 date: 2024-05-26 04:47:00 +/-0000
-categories: [Guides, Wallets]
-tags: [wallet, hardware wallet, software wallet]
+categories: [Guides, Edge]
+tags: [edge, onchain tools]
 pin: False
 ---
 
