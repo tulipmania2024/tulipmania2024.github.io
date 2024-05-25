@@ -1,6 +1,6 @@
 ---
 title: Getting an edge in the on-chain space.
-date: 2024-05-26 04:47:00 +/-0000
+date: 2024-05-25 04:00:00 +/-0000
 categories: [Guides, Edge]
 tags: [edge, onchain tools]
 pin: False
